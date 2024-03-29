@@ -4,11 +4,11 @@ Bu repository, makine öğrenimi konularını öğrenme ve uygulama sürecinde o
 
 ## Giriş Makine Öğrenimi
 
-Makine öğrenimi, bilgisayar sistemlerinin verilerden öğrenmesine ve belirli görevleri yerine getirmesine olanak tanıyan bir yapay zeka dalıdır. Bu başlık altında, makine öğreniminin temel kavramları, tarihçesi ve temel algoritmaları üzerinde durulmaktadır.
+Makine öğrenimi, bilgisayar sistemlerinin verilerden öğrenmesine ve belirli görevleri yerine getirmesine olanak tanıyan bir yapay zeka dalıdır. Bu başlık altında, makine öğreniminin temel kavramları ve temel algoritmaları üzerinde durulmaktadır.
 
 ## Regresyon
 
-Regresyon, bir bağımlı değişkenin bağımsız değişkenlerle ilişkisini modellemek için kullanılan bir istatistiksel tekniktir. Bu bölümde, doğrusal ve doğrusal olmayan regresyon modelleri, regresyonun çeşitli kullanım alanları ve uygulama örnekleri incelenmektedir.
+Regresyon, bir bağımlı değişkenin bağımsız değişkenlerle ilişkisini modellemek için kullanılan bir istatistiksel tekniktir. Bu bölümde, doğrusal ve doğrusal olmayan regresyon modelleri, regresyonun kanser hücreleri tespiti için uygulama örneği incelenmektedir.
 
 ## Sınıflandırma
 
