@@ -101,7 +101,7 @@ Bu hiper düzlem, iki sınıfı en iyi şekilde ayıran optimal bir şekilde yer
 Model, eğitim veri seti üzerinde bu hiper düzlemi bulmaya çalışır ve bu hiper düzlemi tanımlayan öznitelikleri ve sınırları belirler.
 """
 
-model_2 = LinearSVC()   # Logistic Regression Modelimizi oluşturuyoruz.
+model_2 = LinearSVC()   # LinearSVC Modelimizi oluşturuyoruz.
 
 model_2.fit(X_train,y_train) # Verimizi modelimize oturtuyoruz.
 
